@@ -69,11 +69,7 @@ const ConditionalForm = () => {
             required
             className="text-center mt-2 ml-6 p-1.5 px-5 rounded-lg border-2 border-white focus:outline-none "
           >
-            <option
-              value=""
-              className="bg-slate-900/60 "
-              onChange={handleChange}
-            >
+            <option value="" className="bg-slate-900/60 ">
               Select Your Role
             </option>
             <option className="bg-slate-900/60 " value="student">
