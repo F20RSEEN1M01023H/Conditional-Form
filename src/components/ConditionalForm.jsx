@@ -73,7 +73,7 @@ const ConditionalForm = () => {
               Select Your Role
             </option>
             <option className="bg-slate-900/60 " value="student">
-              Student
+              Students
             </option>
             <option className="bg-slate-900/60 " value="employee">
               Employee
